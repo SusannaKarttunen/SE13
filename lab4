@@ -33,6 +33,13 @@ Usecases
 Link to usecase diagram:
 https://raw.github.com/rosasuominen/SE13/master/usecase.png
 
+-What the system (will) do?
+Store information, like medical conditions, projects, general policy
+-How cases are described, how much details?
+Use cases are various, and some user types might have many kind of projects and trials to take care of, so all of 
+them are not listed in the document, which is understandable. So everything is not fully detailed, but explanations 
+cover enough.
+
 
 ****************************************
 Functional & non-functional requirements
