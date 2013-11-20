@@ -38,6 +38,33 @@ general and accessibility standards. Reliability, availability, maintainability 
 non-functional requirements.
 
 ****************************************
+How does (will) it look?
+****************************************
+
+-UI examples / views?
+  In the document the following is stated:
+
+  The portal and all its publicly accessible resources will be designed so that also disabled
+  can access it.
+
+  User profiles can be customised to meet the user's individual needs. The portal will provide
+  different layouts for each of the user types.
+ 
+  The whole portal and applications which are accessed 
+  through the it have a consistent look and feel. 
+
+  All resources will carry a clear copyright notice where the resources are not in the 
+  public domain. 
+
+-Are the pictures mockups or screenshots from existing system?
+  There is a link to a guide for NHS identity which includes visual 
+  examples, but the document itself doesn't
+  include mockups or screenshots.
+
+-Transitions between views
+  The portal has a consistent look and feel.
+
+****************************************
 Your point of view
 ****************************************
 -Is it a good/bad document? Why?
