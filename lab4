@@ -2,9 +2,48 @@ The document analyzed can be found from:
 http://www.nihr.ac.uk/files/pdfs/NIHR4.2_Portal_URS002_v3.pdf
 
 ****************************************
+Introduction
+****************************************
+-What is the project?
+  The National Institute for Health Research (NIHR) will implement a ‘portal’, as a
+  single point of contact through which everyone interested in Health Research will
+  access information about research and manage the life-cycles of research projects.
+-Overall description of the product
+  The secure, internet web-based NIHR portal will provide a single gateway to
+  applications for the broad community of NIHR stakeholders; and to information and
+  knowledge bases designed around the needs of particular stakeholder communities
+  such as researchers, research networks, R&D managers, funders and sponsors,
+  including the Department of Health.
+-Target audience?
+  The portal will provide a single gateway to applications, information and knowledge
+  bases for the broad community of NIHR stakeholders including researchers, R&D
+  managers, Department of Health managers and the research networks.
+-The situation?
+	There is no such system in place at the moment.
+-Motivation?
+  In January 2006, ‘Best Research for Best Health’ (BRfBH) was published, a strategy
+  that describes how the Government intends to make the UK the best place in the
+  world for health research, development and innovation.
+-Structure
+	The structure is pretty much the same as in the Wikipedia example. It includes the introduction, overall description and requirements.
+
+
+
+****************************************
 Functional & non-functional requirements
 ****************************************
 The phasing of requirements are listed in a table. These are all functional requirements.
 Some non-functional requirements are given in the document such as performance requirements and compliance with 
 general and accessibility standards. Reliability, availability, maintainability and security are also considered as
 non-functional requirements.
+
+****************************************
+Your point of view
+****************************************
+-Is it a good/bad document? Why?
+  It is a good document. It follows the structure of a Software requirements specification and is clear. 
+-Consider also the quality of diagrams / illustrations
+  There weren’t too many diagrams or illustrations, only one. More diagrams would have made the document clearer.
+-Do you think there would be enough information for you to build that system?
+	Yes.
+
