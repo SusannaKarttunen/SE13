@@ -48,7 +48,7 @@ There is only one flow chart.
 ****************************************
 Functional & non-functional requirements
 ****************************************
-The phasing of requirements are listed in a table. These are all functional requirements.
+The phasing of requirements are listed in a table (p.18). These are all functional requirements.
 Some non-functional requirements are given in the document such as performance requirements and compliance with 
 general and accessibility standards. Reliability, availability, maintainability and security are also considered as
 non-functional requirements.
