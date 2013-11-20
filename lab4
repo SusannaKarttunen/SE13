@@ -1,0 +1,10 @@
+The document analyzed can be found from:
+http://www.nihr.ac.uk/files/pdfs/NIHR4.2_Portal_URS002_v3.pdf
+
+****************************************
+Functional & non-functional requirements
+****************************************
+The phasing of requirements are listed in a table. These are all functional requirements.
+Some non-functional requirements are given in the document such as performance requirements and compliance with 
+general and accessibility standards. Reliability, availability, maintainability and security are also considered as
+non-functional requirements.
