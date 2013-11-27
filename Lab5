@@ -48,5 +48,46 @@ B. User interface
 
 1. Main views of the system
 
+  -Login page
+  -Sign up page
+  -Main page
+  -Map screen
+  -People list page
+  -Search page
+  -Settings page
+  -Plan route page
+  
+2. Description of the views.
 
+Login page:
+  Only contains the Login form and the link/button for the Sign up page
+  
+Sign up page:
+  Contains a form with the following fields: username, password, email, first name, last name, 
+  age (optional), study group (optional), teacher or student (optional). Also contains the sign 
+  up button and a button for going back to the previous screen.
+  
+Main page:
+  Has links for map, people list, search, settings, plan route and log out.
+  
+Map screen:
+  Has a map view of the campus, buttons to move the view to a different floor, 
+  the map can be zoomed, people can be clicked, a button to return to the main page, 
+  a button to go to the people list. Also shows a route if planned with the plan route page.
 
+People list:
+  Has filter buttons for showing friends, foes and all people currently logged in, 
+  people can be marked either friend, foe or neutral. Has a button to return to the main page.
+  
+Search page:
+  Has a search bar, shows a list of people found. searched people can be marked either friend, foe or neutral.
+  Has a button to return to the main page.
+  
+Settings page:
+  User can edit password, email, first name, last name, age, study group, 
+  teacher or student. User can delete the account. Has a button to return to the main page.
+
+Plan route page:
+  Has a form with "Starting point", "End destination", a button for marking current location as the starting point, 
+  a button for choosing the start or end point from the map screen, a "Plan route" button, 
+  a button to return to the main page.
