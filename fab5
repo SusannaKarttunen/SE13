@@ -1,0 +1,37 @@
+A
+1. Use cases
+
+User:
+Login
+Log out
+Edit account
+Delete account
+Add friends
+Add foes
+Search for people
+Show people in list
+Show people in map
+Delete friends
+Delete foes
+Plan route
+Edit options
+
+First timer:
+Sign up
+
+2. Use case scenario
+
+"User wants to login"
+
+Initial state: User is not logged in and is a registered user
+
+Normal flow: User clicks "Login" and is directed to a new page.
+There he/she enters username and password and clicks "Login".
+The user is redirected to the start screen of the application and is now logged in.
+
+What can go wrong: The user mistypes the username or password.
+
+Other activities going on at the same time: Database checks the match with the username and password.
+
+End state: The user is logged in.
+
