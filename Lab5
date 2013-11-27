@@ -73,7 +73,8 @@ Main page:
 Map screen:
   Has a map view of the campus, buttons to move the view to a different floor, 
   the map can be zoomed, people can be clicked, a button to return to the main page, 
-  a button to go to the people list. Also shows a route if planned with the plan route page.
+  a button to go to the people list and a button to go to the plan route page. 
+  Also shows a route if planned with the plan route page.
 
 People list:
   Has filter buttons for showing friends, foes and all people currently logged in, 
