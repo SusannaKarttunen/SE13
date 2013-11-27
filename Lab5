@@ -77,11 +77,12 @@ Map screen:
 
 People list:
   Has filter buttons for showing friends, foes and all people currently logged in, 
-  people can be marked either friend, foe or neutral. Has a button to return to the main page.
+  people can be marked either friend, foe or neutral. Has a button to return to the main page and a
+  button to go to the search page.
   
 Search page:
   Has a search bar, shows a list of people found. searched people can be marked either friend, foe or neutral.
-  Has a button to return to the main page.
+  Has a button to go to the people list  and a button to return to the main page.
   
 Settings page:
   User can edit password, email, first name, last name, age, study group, 
@@ -91,3 +92,29 @@ Plan route page:
   Has a form with "Starting point", "End destination", a button for marking current location as the starting point, 
   a button for choosing the start or end point from the map screen, a "Plan route" button, 
   a button to return to the main page.
+
+4. State transitions between the views.
+
+Login page:
+  Leads to the main page and Sign up page.
+  
+Sign up page:
+  Leads to the main page and the login page.
+  
+Main page:
+  Has links for map, people list, search, settings, plan route and log out. Log out leads to the login page.
+  
+Map screen:
+  Leads to the people list and main page.
+
+People list:
+  Leads to the search page and the main page.
+
+Search page:
+  Leads to the people list and the main page.
+
+Settings page:
+  Leads to the main page or the login page.
+
+Plan route page:
+  Leads to the map page and the main page.
