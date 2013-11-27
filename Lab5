@@ -105,7 +105,7 @@ Main page:
   Has links for map, people list, search, settings, plan route and log out. Log out leads to the login page.
   
 Map screen:
-  Leads to the people list and main page.
+  Leads to the people list, plan route page and main page.
 
 People list:
   Leads to the search page and the main page.
