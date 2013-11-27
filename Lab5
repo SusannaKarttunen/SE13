@@ -64,7 +64,7 @@ Login page:
   
 Sign up page:
   Contains a form with the following fields: username, password, email, first name, last name, 
-  age (optional), study group (optional), teacher or student (optional). Also contains the sign 
+  birth date (optional), study group (optional), teacher or student (optional). Also contains the sign 
   up button and a button for going back to the previous screen.
   
 Main page:
@@ -86,8 +86,12 @@ Search page:
   Has a button to go to the people list  and a button to return to the main page.
   
 Settings page:
-  User can edit password, email, first name, last name, age, study group, 
-  teacher or student. User can delete the account. Has a button to return to the main page.
+  Has buttons for edit account and delete account. User can delete the account by pressing the button. 
+  Has a button to return to the main page.
+  
+Edit account page:
+  User can edit password, email, study group and teacher/student status. Has a button to save changes, 
+  to go to settings page and to return to the main page.
 
 Plan route page:
   Has a form with "Starting point", "End destination", a button for marking current location as the starting point, 
@@ -115,7 +119,10 @@ Search page:
   Leads to the people list and the main page.
 
 Settings page:
-  Leads to the main page or the login page.
+  Leads to the edit account page, main page or the login page.
 
+Edit account page:
+  Leads to the main page and the settings page.
+  
 Plan route page:
   Leads to the map page and the main page.
