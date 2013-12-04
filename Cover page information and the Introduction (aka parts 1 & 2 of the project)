@@ -10,16 +10,17 @@ Ver 1.0
  
  -Overall description of the project, context
 
+This document details the software requirements specification for the people positioning system. 
 Team Sorsa will implement a mobile application using the indoor positioning system. 
 The new application will be called 'Ducklings'. This document defines the user requirements 
 for the system and structure of the application. The application will provide a simple friend and foe detecting system 
 for the broad community of Metropolia students, teachers and staff members.
 
 
-
-
-
-
-
-
  -Overall description of the system
+
+The system will allow the user to locate people around the campus area using the application. This locating is 
+done with the technology of the previously developed indoor positioning system. The users will have to 
+register to be able to use the application and only registered users will be detectable by other users. 
+Users will also be able to mark people as friends or foes and see their position on the map. A sdogdfsgioh is also included 
+to 
