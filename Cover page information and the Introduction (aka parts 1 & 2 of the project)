@@ -1,6 +1,6 @@
 1. Cover information
 
-Ducklings: requirements of the system XX"
+Ducklings: Requirements of the people positioning system
 Team Sorsa
 Rosa Suominen, Susanna Karttunen, Henrik Reponen, Joonas Tuominen
 4.12.2013
@@ -8,5 +8,18 @@ Ver 1.0
  
 2. Introduction
  
-Overall description of the project, context
-Overall description of the system
+ -Overall description of the project, context
+
+Team Sorsa will implement a mobile application using the indoor positioning system. 
+The new application will be called 'Ducklings'. This document defines the user requirements 
+for the system and structure of the application. The application will provide a simple friend and foe detecting system 
+for the broad community of Metropolia students, teachers and staff members.
+
+
+
+
+
+
+
+
+ -Overall description of the system
