@@ -30,8 +30,9 @@ Introduction
 *********
 Usecases
 *********
-Link to usecase diagram:
-https://raw.github.com/rosasuominen/SE13/master/usecase.png
+Usecase diagram:
+![GitHub Logo](https://raw.github.com/rosasuominen/SE13/master/usecase.png)
+Format: ![Alt Text](url)
 
 -What the system (will) do?
 Store information, like medical conditions, projects, general policy
