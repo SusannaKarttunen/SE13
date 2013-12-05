@@ -1,4 +1,5 @@
-1. Cover information
+1. Cover page information
+===================================
 
 Ducklings: Requirements of the people positioning system
 Team Sorsa
@@ -7,20 +8,21 @@ Rosa Suominen, Susanna Karttunen, Henrik Reponen, Joonas Tuominen
 Ver 1.0
  
 2. Introduction
+===================================
  
- -Overall description of the project, context
+2.1 Overall description of the project
 
-This document details the software requirements specification for the people positioning system. 
-Team Sorsa will implement a mobile application using the indoor positioning system. 
-The new application will be called 'Ducklings'. This document defines the user requirements 
-for the system and structure of the application. The application will provide a simple friend and foe detecting system 
-for the broad community of Metropolia students, teachers and staff members.
+This document details the software requirements specification for the people positioning system "Ducklings". Team Sorsa will implement a mobile application using the indoor positioning system. This document defines the user requirements for the system and structure of the application. The application will provide a simple friend and foe detecting system for the broad community of Metropolia students, teachers and staff members.
 
 
- -Overall description of the system
+2.2 Overall description of the system
 
-The system will allow the user to locate people around the campus area using the application. This locating is 
-done with the technology of the previously developed indoor positioning system. The users will have to 
-register to be able to use the application and only registered users will be detectable by other users. 
-Users will also be able to mark people as friends or foes and see their position on the map. A sdogdfsgioh is also included 
-to 
+Ducklings is a multi functional system allowing the user to locate people around the campus area using the application. This locating is done with the technology of the previously developed indoor positioning system. The users will have to register to be able to use the application and only registered users will be detectable by other users. Users will be able to mark people as friends or foes and see their position on the map. A route planner system is included to show the users the most effective route to their destination while avoiding people marked as foes. Ducklings is a free and open source application with a GNU General Public License (GPL). Users who have knowledge in programming are free to help with the application’s development.
+
+2.3 Product Features
+
+- Locating people in the campus area
+- Locating people from a list
+- Marking people as friends or foes
+- Planning a route to a destination while avoiding foes
+- Alarming the user of a nearby foe
