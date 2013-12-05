@@ -1,0 +1,39 @@
+3. use cases
+
+===================================
+
+3.1 Definition of the user groups
+
+Use cases
+
+User:
+  -Login
+  -Log out
+  -Edit account
+  -Delete account
+  -Add friends
+  -Add foes
+  -Search for people
+  -Show people in list
+  -Show people in map
+  -Delete friends
+  -Delete foes
+  -Plan route
+  -Edit options
+
+First timer:
+  -Sign up
+  
+//TÄHÄN VIELÄ NE DEFINITIOT SUSANNA!
+
+3.2 Use case diagrams
+
+https://github.com/rosasuominen/SE13/blob/master/UseCaseDiagram.jpg
+
+3.3. Use case scenarios (based on template)
+
+//TÄHÄN SCENAARIOT SUSANNA!
+
+3.4 Depiction of one use case as a flow chart
+
+https://github.com/rosasuominen/SE13/blob/master/flowchart.png
