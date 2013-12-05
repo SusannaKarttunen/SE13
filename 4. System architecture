@@ -1,0 +1,21 @@
+4. System architecture
+=======================
+
+High-level overview of the system  
+Main modules and their functions represented
+
+The application requires system modules for positioning, navigation and authentication.
+The most basic function of the application is to show the user's and his or hers friends and foes locations on a map.
+Also most actions of the application heavily rely on this fundamental functionality. Because of the importance of 
+positioning within the system it should be considered a main module.
+
+Navigation is provided to find friends within the building while avoiding foes. Again this is a relatively important feature
+of the application and it should be considered a main module which is dependant on the positioning module. User positions
+are needed for any navigation to be accomplished. In this case the position of foes affects the navigation route, since foes
+should always be avoided. This active navigation is dependant on the movement of both the friends the user is trying to get
+to and the foes he or she is trying to avoid. A new route is calculated if a foe disturbs the current route.
+
+In order to keep track of users an authentication module is necessary. It is essential for distinguishing users from each 
+other and providing the right stored data to the client such as the friend and foe lists. The positioning system needs 
+information about the user to provide other users the information who is in a certain position on the map, a friend or a foe.
+Furthermore only people within friends or foes are shown and this distinction is crucial.
